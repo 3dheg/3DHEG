@@ -47,7 +47,7 @@ The optional exact flag (1 - true, 0 - false (default)) will output signful calc
 
 All data is given in the following format:
 
-  x f(x) err(f(x))
+`x f(x) err(f(x))`
 
 ### Citation
 
